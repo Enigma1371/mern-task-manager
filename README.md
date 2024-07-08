@@ -1,4 +1,5 @@
 MERN Task Manager
+
 The MERN Task Manager is a comprehensive task management application built using the MERN stack (MongoDB, Express, React, Node.js). This application allows users to register, log in, and manage their tasks in real-time with the help of Socket.IO.
 
 Features
